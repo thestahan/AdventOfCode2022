@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_rock_paper_scissors", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_rucksack_reorganization", "03_rucksack_reorganization\03_rucksack_reorganization.csproj", "{379FE992-707C-4472-BA7E-B1E79E7D1202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_camp_cleanup", "04_camp_cleanup\04_camp_cleanup.csproj", "{4A956E0B-992E-4247-B023-CBFE4CECB7D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_camp_cleanup", "04_camp_cleanup\04_camp_cleanup.csproj", "{4A956E0B-992E-4247-B023-CBFE4CECB7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_supply_stacks", "05_supply_stacks\05_supply_stacks.csproj", "{F7D13C31-124A-4A18-9458-21CC22DA9303}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4A956E0B-992E-4247-B023-CBFE4CECB7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A956E0B-992E-4247-B023-CBFE4CECB7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A956E0B-992E-4247-B023-CBFE4CECB7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D13C31-124A-4A18-9458-21CC22DA9303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D13C31-124A-4A18-9458-21CC22DA9303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D13C31-124A-4A18-9458-21CC22DA9303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D13C31-124A-4A18-9458-21CC22DA9303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
