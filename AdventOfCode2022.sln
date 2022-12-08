@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_tuning_trouble", "06_tun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_no_space_left_on_device", "07\07_no_space_left_on_device.csproj", "{C4A66E11-6FD8-420F-9B6E-D1721A5FE00C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_treetop_tree_house", "08_treetop_tree_house\08_treetop_tree_house.csproj", "{93970C92-7E32-45BC-A96D-F14D138409E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C4A66E11-6FD8-420F-9B6E-D1721A5FE00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A66E11-6FD8-420F-9B6E-D1721A5FE00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A66E11-6FD8-420F-9B6E-D1721A5FE00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93970C92-7E32-45BC-A96D-F14D138409E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93970C92-7E32-45BC-A96D-F14D138409E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93970C92-7E32-45BC-A96D-F14D138409E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93970C92-7E32-45BC-A96D-F14D138409E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
