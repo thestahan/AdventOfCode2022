@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_no_space_left_on_device"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_treetop_tree_house", "08_treetop_tree_house\08_treetop_tree_house.csproj", "{93970C92-7E32-45BC-A96D-F14D138409E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_rope_bridge", "09_rope_bridge\09_rope_bridge.csproj", "{974376E8-4C42-41F7-97EF-7786D829BAC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_rope_bridge", "09_rope_bridge\09_rope_bridge.csproj", "{974376E8-4C42-41F7-97EF-7786D829BAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_cathode-ray_tube", "10_cathode-ray_tube\10_cathode-ray_tube.csproj", "{CA98A5E4-266E-485C-BF8B-2A718402D580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{974376E8-4C42-41F7-97EF-7786D829BAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{974376E8-4C42-41F7-97EF-7786D829BAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{974376E8-4C42-41F7-97EF-7786D829BAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA98A5E4-266E-485C-BF8B-2A718402D580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA98A5E4-266E-485C-BF8B-2A718402D580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA98A5E4-266E-485C-BF8B-2A718402D580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA98A5E4-266E-485C-BF8B-2A718402D580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
