@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_rope_bridge", "09_rope_b
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_cathode-ray_tube", "10_cathode-ray_tube\10_cathode-ray_tube.csproj", "{CA98A5E4-266E-485C-BF8B-2A718402D580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_monkey_in_the_middle", "11_monkey_in_the_middle\11_monkey_in_the_middle.csproj", "{590C26C2-C988-41B9-B5C6-B4050092C5FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_monkey_in_the_middle", "11_monkey_in_the_middle\11_monkey_in_the_middle.csproj", "{590C26C2-C988-41B9-B5C6-B4050092C5FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_hill_climbing_algorithm", "13_hill_climbing_algorithm\12_hill_climbing_algorithm.csproj", "{4BAAAF6F-0B11-4D54-89DB-7DC9748A167D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{590C26C2-C988-41B9-B5C6-B4050092C5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590C26C2-C988-41B9-B5C6-B4050092C5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590C26C2-C988-41B9-B5C6-B4050092C5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAAAF6F-0B11-4D54-89DB-7DC9748A167D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAAAF6F-0B11-4D54-89DB-7DC9748A167D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAAAF6F-0B11-4D54-89DB-7DC9748A167D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAAAF6F-0B11-4D54-89DB-7DC9748A167D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
