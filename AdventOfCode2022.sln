@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32519.111
@@ -30,6 +30,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_distress_signal", "13_distress_signal\13_distress_signal.csproj", "{73E68C9C-8024-4353-B524-F5A776DBCF07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_regolith_reservoir", "14_regolith_reservoir\14_regolith_reservoir.csproj", "{013E2C16-E264-400F-90C9-5150D8B400B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_boiling_boulders", "18_boiling_boulders\18_boiling_boulders.csproj", "{F8E970B6-952E-4BFE-B7CE-575135279654}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
