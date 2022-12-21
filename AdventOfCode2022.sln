@@ -29,9 +29,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_hill_climbing_algorithm"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_distress_signal", "13_distress_signal\13_distress_signal.csproj", "{73E68C9C-8024-4353-B524-F5A776DBCF07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_regolith_reservoir", "14_regolith_reservoir\14_regolith_reservoir.csproj", "{013E2C16-E264-400F-90C9-5150D8B400B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_regolith_reservoir", "14_regolith_reservoir\14_regolith_reservoir.csproj", "{013E2C16-E264-400F-90C9-5150D8B400B2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_boiling_boulders", "18_boiling_boulders\18_boiling_boulders.csproj", "{F8E970B6-952E-4BFE-B7CE-575135279654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18_boiling_boulders", "18_boiling_boulders\18_boiling_boulders.csproj", "{F8E970B6-952E-4BFE-B7CE-575135279654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_monkey_math", "21_monkey_math\21_monkey_math.csproj", "{982B62EA-338F-4743-A928-0858E72AEF2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
