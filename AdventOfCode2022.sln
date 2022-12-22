@@ -34,8 +34,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_boiling_boulders", "18_boiling_boulders\18_boiling_boulders.csproj", "{F8E970B6-952E-4BFE-B7CE-575135279654}"
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18_boiling_boulders", "18_boiling_boulders\18_boiling_boulders.csproj", "{F8E970B6-952E-4BFE-B7CE-575135279654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_monkey_math", "21_monkey_math\21_monkey_math.csproj", "{982B62EA-338F-4743-A928-0858E72AEF2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_monkey_math", "21_monkey_math\21_monkey_math.csproj", "{982B62EA-338F-4743-A928-0858E72AEF2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_grove_positioning_system", "20_grove_positioning_system\20_grove_positioning_system.csproj", "{4E7E878B-3011-48CD-884F-F71A3BEE2842}"
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
